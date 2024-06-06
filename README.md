@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer from India.</h3>
 <img alt="Coding" width="400px" align="right" src="https://github.com/panchalbhakti/panchalbhakti/assets/138148615/e7d29e5a-3480-4398-829e-3e285340b23d">
 
-- 🌱 I’m currently learning **React.JS, SEO Concepts, WordPress**
+- 🌱 I’m currently learning **Web Development | Frontend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/panchalbhakti](https://github.com/panchalbhakti)
 
