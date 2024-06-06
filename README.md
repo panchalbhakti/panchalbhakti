@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhakti Panchal</h1>
 <h3 align="center">A passionate Web Developer from India.</h3>
 
-- 🌱 I’m currently learning **React.js, SEO, WordPress**
+- 🌱 I’m currently learning **React.JS, WordPress**
 
 - 👨‍💻 All of my projects are available at [https://github.com/panchalbhakti](https://github.com/panchalbhakti)
 
