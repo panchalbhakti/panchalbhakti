@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/panchalbhakti](https://github.com/panchalbhakti)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, C, C++**
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, C, C++, ReactJS**
 
 - 📫 How to reach me **panchalbhakti031@gmail.com**
 
