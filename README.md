@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, C, C++, ReactJS**
 
-- 📫 How to reach me **panchalbhakti031@gmail.com**||**panchalbhakti138@outlook.com
+- 📫 How to reach me **panchalbhakti031@gmail.com**||**panchalbhakti138@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
