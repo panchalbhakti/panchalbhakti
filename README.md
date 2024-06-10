@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhakti Panchal</h1>
-<h3 align="center">A passionate Web Developer from India.</h3>
+<h3 align="center">Software Engineer |  Full Stack Enthusiast  | Undergraduate Code Developer | Enthusiastic Code Learner</h3>
 <img alt="Coding" width="400px" align="right" src="https://github.com/panchalbhakti/panchalbhakti/assets/138148615/e7d29e5a-3480-4398-829e-3e285340b23d">
 
 - 🌱 I’m currently learning **Web Development | Frontend Development**
