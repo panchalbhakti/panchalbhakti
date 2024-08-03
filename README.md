@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Web Development | Frontend Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/panchalbhakti](https://github.com/panchalbhakti)
+- 👨‍💻 All of my projects are available at https://panchalbhakti.github.io/Portfolio/
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, C, C++, ReactJS, MongoDB, node.js, TailwindCss, BootStrap, Python, Figma**
 
