@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at https://panchalbhakti.github.io/Portfolio/
 
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, C, C++, ReactJS, MongoDB, node.js, TailwindCss, BootStrap, Python, Figma**
+<!--- 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, C, C++, ReactJS, MongoDB, node.js, TailwindCss, BootStrap, Python, Figma**-->
 
 - 📫 How to reach me **panchalbhakti031@gmail.com | panchalbhakti138@outlook.com**
 
