@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhakti Panchal</h1>
 <h3 align="center">Software Engineer |  Full Stack Enthusiast  | Undergraduate Code Developer</h3>
-<img alt="Coding" width="400px" align="right" src="https://github.com/user-attachments/assets/12304e08-6a17-4a9c-8f4b-5d5a8a8805b7">
+<img alt="Coding" width="400px" align="right" src="(https://1drv.ms/v/c/11df848bc44a112c/EZQwuvEbYMxOtimTEHs-zv8BKzv7zxTtt7iLqlkNjDpbOA?e=xQmD3i)">
 
 - 🌱 I’m currently learning **Web Development | Frontend Development**
 
