@@ -20,5 +20,5 @@
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=panchalbhakti&show_icons=true&locale=en&layout=compact" alt="panchalbhakti" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panchalbhakti&" alt="panchalbhakti" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panchalbhakti&" alt="panchalbhakti" /></p>-->
 
