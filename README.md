@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhakti Panchal</h1>
+<!--<h1 align="center">Hi 👋, I'm Bhakti Panchal</h1>
 <h3 align="center">Software Engineer |  Full Stack Enthusiast  | Undergraduate Code Developer</h3>
 <img alt="Coding" width="400px" align="right" src="https://github.com/user-attachments/assets/70e6571f-9c7a-4554-aca4-5a239810ec4a">
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **panchalbhakti031@gmail.com | panchalbhakti138@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>-->
 <p align="left">
 <a href="https://linkedin.com/in/bhakti-panchal-a407a528a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhakti-panchal-a407a528a" height="30" width="40" /></a> <a href="https://codepen.io/Bhakti-Panchal" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/1545643?s=200&v=4" alt="codepen" width="40" height="40"/></a>
 </p>
