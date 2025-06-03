@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer |  Quick-Learning Undergraduate Coder  | Undergraduate Code Developer</h3>
 <img alt="Coding" width="350px" align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-- 🌱 I’m currently learning **Web Development | Frontend Development**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at https://panchalbhakti.github.io/Portfolio/
 
